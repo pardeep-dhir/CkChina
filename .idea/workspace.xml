@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c90af64d-d91b-4b8f-ab29-ade5b064ea32" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1UpPUOGVHvbBMVJYadAIerorWrW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="F:/development/ole-test-scripts" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="CKChina" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="CKChina" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c90af64d-d91b-4b8f-ab29-ade5b064ea32" name="Default Changelist" comment="" />
+      <created>1576050578822</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576050578822</updated>
+      <workItem from="1576151974524" duration="1206000" />
+      <workItem from="1576153203243" duration="122000" />
+      <workItem from="1576153339380" duration="339000" />
+      <workItem from="1576153695020" duration="1060000" />
+      <workItem from="1576496399431" duration="1266000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="27" key="#Notifications" timestamp="1576651448302">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="27" key="#Notifications/0.0.1366.738@0.0.1366.738" timestamp="1576651448302" />
+    <state x="275" y="27" key="#Other_File_Types" timestamp="1576153923694">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="27" key="#Other_File_Types/0.0.1366.738@0.0.1366.738" timestamp="1576153923694" />
+    <state x="137" y="26" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576651798930">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="137" y="26" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1576651798930" />
+    <state x="363" y="99" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1576651396931">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="363" y="99" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.738@0.0.1366.738" timestamp="1576651396931" />
+    <state x="451" y="199" key="#com.intellij.tools.ToolEditorDialog" timestamp="1576150436506">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="451" y="199" key="#com.intellij.tools.ToolEditorDialog/0.0.1366.738@0.0.1366.738" timestamp="1576150436506" />
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1576659080267">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1576659080267" />
+    <state x="263" y="103" key="IDE.errors.dialog" timestamp="1576496829838">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="263" y="103" key="IDE.errors.dialog/0.0.1366.738@0.0.1366.738" timestamp="1576496829838" />
+    <state x="184" y="11" key="SettingsEditor" timestamp="1576651661000">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="11" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1576651661000" />
+    <state x="384" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1576496420722">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="384" y="192" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1576496420722" />
+    <state x="338" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1576748235183">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="338" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.738@0.0.1366.738" timestamp="1576748235183" />
+    <state x="345" y="125" width="672" height="678" key="search.everywhere.popup" timestamp="1577429823518">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="345" y="125" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1577429823518" />
+  </component>
+</project>
